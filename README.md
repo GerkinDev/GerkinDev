@@ -1,4 +1,4 @@
-### Hi there 👋
+> Yes No, Maybe, I don't know, can you RTFM ?
 
 - 🔭 I’m currently working on my very own small human-sized startup. :bulb: Pssst: it's about science things.
 - 🌱 I’m currently learning FP, kubernetes, a bit of machine learning, and tons of funny (at least for me) stuff
