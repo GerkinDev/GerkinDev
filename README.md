@@ -1,16 +1,5 @@
 > Yes No, Maybe, I don't know, can you RTFM ?
 
-- 🔭 I’m currently working on my very own small human-sized startup. :bulb: Pssst: it's about science things.
-- 🌱 I’m currently learning FP, kubernetes, a bit of machine learning, and tons of funny (at least for me) stuff
-- 📫 How to reach me: send a pigeon !
-- ⚡ Fun fact: my neighbours are cows. :cow2:
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- 👯 I’m looking to collaborate on ...
--->
-
 <p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GerkinDev&theme=solarized-dark" alt="GitHub Streak"/>
 </a></p>
